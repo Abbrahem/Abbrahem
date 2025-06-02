@@ -31,14 +31,15 @@
 
 ---
 
-### 📈 إحصائياتي على GitHub
+### 📈 إحصائياتي على GitHub### 📈 إحصائياتي على GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ibrahim-naser&show_icons=true&theme=radical" width="45%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-naser&layout=compact&theme=radical" width="45%">
+<img src="https://github-readme-stats.vercel.app/api?username=Abbrahem&show_icons=true&theme=radical" width="45%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abbrahem&layout=compact&theme=radical" width="45%">
 
 </div>
+
 
 ---
 
